@@ -1,3 +1,3 @@
-# Car-Price-Prediction-Using-Multiple-Linear-Regression
+# Car-Price-Prediction-Using-Multiple-Regression-Model
 This research will be a supervised learning algorithm that will utilize different models that will predict the car price given new instances. 
 I will be utilizing Jupyter python for the implementation of machine learning concepts and the reason is because of the numerous inbuilt methods in the form if package libraries present in python. This research will be a supervised learning algorithm that will utilize different models that will predict the car price given new instances. Assessing the model's input data quality enhances system performance and creates the most accurate predictions possible. 
